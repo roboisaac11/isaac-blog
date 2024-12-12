@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isaacblog on Terminal</title>
+    <link>/tags/isaacblog/</link>
+    <description>Recent content in Isaacblog on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/isaacblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Titled</title>
+      <link>/posts/titled/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/titled/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; &lt;em&gt;This post has a title. If you do not like that, you probably have some mental problems or something because almost everything has a title.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;lol u just got &lt;strong&gt;SCAMMED!&lt;/strong&gt; There actually is no introduction! All that is in the into section is these word you are reading right now, and I don&amp;rsquo;t think you can call that an introduction!&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s some things you can contemplate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Why am I reading this useless article?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Why was this even created in the first place?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; How much more money should I be donating to Isaac?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Anyways, here&amp;rsquo;s my output for when I started a hugo server:
+!&lt;img src=&#34;/images/Pasted%20image%2020241211200231.png&#34; alt=&#34;Image Description&#34;&gt;
+I&amp;rsquo;m feeling kind right now, so I&amp;rsquo;ll provide you with the text version:&lt;/p&gt;</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; &lt;em&gt;This post has a title. If you do not like that, you probably have some mental problems or something because almost everything has a title.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;lol u just got &lt;strong&gt;SCAMMED!&lt;/strong&gt; There actually is no introduction! All that is in the into section is these word you are reading right now, and I don&amp;rsquo;t think you can call that an introduction!&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s some things you can contemplate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Why am I reading this useless article?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Why was this even created in the first place?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; How much more money should I be donating to Isaac?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Anyways, here&amp;rsquo;s my output for when I started a hugo server:
+!&lt;img src=&#34;/images/Pasted%20image%2020241211200231.png&#34; alt=&#34;Image Description&#34;&gt;
+I&amp;rsquo;m feeling kind right now, so I&amp;rsquo;ll provide you with the text version:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;WARN  deprecated: site config key paginate was deprecated in Hugo v0.128.0 and will be removed in a future release. Use pagination.pagerSize instead.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;WARN  Module &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;terminal&amp;#34;&lt;/span&gt; is not compatible with this Hugo version: Min 0.90.0 extended; run &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hugo mod graph&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; more information.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Watching &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; changes in C:&lt;span style=&#34;color:#ae81ff&#34;&gt;\U&lt;/span&gt;sers&lt;span style=&#34;color:#ae81ff&#34;&gt;\i&lt;/span&gt;saac&lt;span style=&#34;color:#ae81ff&#34;&gt;\O&lt;/span&gt;neDrive&lt;span style=&#34;color:#ae81ff&#34;&gt;\C&lt;/span&gt;oding&lt;span style=&#34;color:#ae81ff&#34;&gt;\i&lt;/span&gt;saacblog&lt;span style=&#34;color:#ae81ff&#34;&gt;\{&lt;/span&gt;archetypes,assets,content,data,i18n,layouts,static,themes&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Watching &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; config changes in C:&lt;span style=&#34;color:#ae81ff&#34;&gt;\U&lt;/span&gt;sers&lt;span style=&#34;color:#ae81ff&#34;&gt;\i&lt;/span&gt;saac&lt;span style=&#34;color:#ae81ff&#34;&gt;\O&lt;/span&gt;neDrive&lt;span style=&#34;color:#ae81ff&#34;&gt;\C&lt;/span&gt;oding&lt;span style=&#34;color:#ae81ff&#34;&gt;\i&lt;/span&gt;saacblog&lt;span style=&#34;color:#ae81ff&#34;&gt;\h&lt;/span&gt;ugo.toml, C:&lt;span style=&#34;color:#ae81ff&#34;&gt;\U&lt;/span&gt;sers&lt;span style=&#34;color:#ae81ff&#34;&gt;\i&lt;/span&gt;saac&lt;span style=&#34;color:#ae81ff&#34;&gt;\O&lt;/span&gt;neDrive&lt;span style=&#34;color:#ae81ff&#34;&gt;\C&lt;/span&gt;oding&lt;span style=&#34;color:#ae81ff&#34;&gt;\i&lt;/span&gt;saacblog&lt;span style=&#34;color:#ae81ff&#34;&gt;\t&lt;/span&gt;hemes&lt;span style=&#34;color:#ae81ff&#34;&gt;\t&lt;/span&gt;erminal&lt;span style=&#34;color:#ae81ff&#34;&gt;\c&lt;/span&gt;onfig.toml
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Start building sites …
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo v0.139.4-3afe91d4b1b069abbedd6a96ed755b1e12581dfe windows/amd64 BuildDate&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;2024-12-09T17:45:23Z VendorInfo&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;gohugoio
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;That was probably pretty useless for you, and same for me.&lt;/p&gt;
+&lt;h2 id=&#34;outro&#34;&gt;Outro&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Welp, all good things must come to an end. I&amp;rsquo;m not sure if you would call this a good thing, but nonetheless it is still coming to an end.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
