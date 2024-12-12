@@ -19,7 +19,7 @@ Here's some things you can contemplate:
 - [ ] How much more money should I be donating to Isaac?
 
 Anyways, here's my output for when I started a hugo server:
-!![Image Description](/images/Pasted%20image%2020241211200231.png)
+![[Pasted image 20241211215733.png]]
 I'm feeling kind right now, so I'll provide you with the text version:
 ```bash
 WARN  deprecated: site config key paginate was deprecated in Hugo v0.128.0 and will be removed in a future release. Use pagination.pagerSize instead.
