@@ -5,6 +5,7 @@ draft: false
 tags:
   - isaacblog
   - random
+  - finished
 ---
 
 > **NOTE:** *This post has a title. If you do not like that, you probably have some mental problems or something because almost everything has a title.*
@@ -18,9 +19,7 @@ Here's some things you can contemplate:
 - [ ] Why was this even created in the first place?
 - [ ] How much more money should I be donating to Isaac?
 
-Anyways, here's my output for when I started a hugo server:
-![[Pasted image 20241211215733.png]]
-I'm feeling kind right now, so I'll provide you with the text version:
+Heres some output:
 ```bash
 WARN  deprecated: site config key paginate was deprecated in Hugo v0.128.0 and will be removed in a future release. Use pagination.pagerSize instead.
 WARN  Module "terminal" is not compatible with this Hugo version: Min 0.90.0 extended; run "hugo mod graph" for more information.
@@ -35,3 +34,8 @@ That was probably pretty useless for you, and same for me.
 ## Outro
 ---
 Welp, all good things must come to an end. I'm not sure if you would call this a good thing, but nonetheless it is still coming to an end. 
+
+bro invest in the Isaac Company
+
+Also heres something:
+![Image Description](/images/Pasted-image-20241213172318.png)
