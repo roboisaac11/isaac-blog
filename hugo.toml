@@ -75,7 +75,7 @@ paginate = 5
     title = "Isaac Blog"
 
     [languages.en.params]
-      subtitle = "A bunch of random ramblings from ISaac"
+      subtitle = "A bunch of random ramblings from Isaac"
       owner = ""
       keywords = ""
       copyright = ""
@@ -90,8 +90,8 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
-        logoHomeLink = "/"
+        logoText = "Isaac Blog"
+        logoHomeLink = "/isaac-blog"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
