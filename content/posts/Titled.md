@@ -38,4 +38,4 @@ Welp, all good things must come to an end. I'm not sure if you would call this a
 bro invest in the Isaac Company
 
 Also heres something:
-![Image Description](/images/Pasted-image-20241213172318.png)
+![Image Description](./images/Pasted-image-20241213172318.png)
