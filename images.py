@@ -50,8 +50,8 @@ for filename in os.listdir(posts_dir):
                 if os.path.exists(image_dest):
                     try:
                         os.rename(image_dest, new_image_dest)
-                    except Exception as e:
-                        print(f"Error renaming {image_dest} to {new_image_dest}: {e}")
+                    except Exception:
+                        print("Skipped because file already exists")
 
 
         # Step 5: Write the updated content back to the markdown file

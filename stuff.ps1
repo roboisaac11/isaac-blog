@@ -1,11 +1,13 @@
+$base_url = "/isaac-blog/"
+
 # Update posts
 robocopy "C:\Users\isaac\OneDrive\Documents\Obsidian Vault\isaac-blog" "C:\Users\isaac\OneDrive\Coding\isaacblog\content\posts" /mir
 
 # Update images:
-python images.py
+python images.py $base_url
 
 # Build
-hugo -b "/isaac-blog/"
+hugo -b $base_url
 
 # push to github
 git add .
