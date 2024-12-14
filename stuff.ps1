@@ -1,11 +1,11 @@
 # Update posts
 robocopy "C:\Users\isaac\OneDrive\Documents\Obsidian Vault\isaac-blog" "C:\Users\isaac\OneDrive\Coding\isaacblog\content\posts" /mir
 
-# Build
-hugo -b "/isaac-blog/"
-
 # Update images:
 python images.py
+
+# Build
+hugo -b "/isaac-blog/"
 
 # push to github
 git add .
