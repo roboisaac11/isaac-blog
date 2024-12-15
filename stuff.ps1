@@ -1,7 +1,7 @@
 $base_url = "/isaac-blog/"
 
 # Update posts
-robocopy "C:\Users\isaac\OneDrive\Documents\Obsidian Vault\isaac-blog" "C:\Users\isaac\OneDrive\Coding\isaacblog\content\posts" /mir
+robocopy "C:\Users\isaac\OneDrive\Documents\Obsidian Vault\00 - Isaac Blog" "C:\Users\isaac\OneDrive\Coding\isaacblog\content\posts" /mir
 
 # Update images:
 python images.py $base_url
