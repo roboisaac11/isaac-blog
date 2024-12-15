@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/isaac-blog/tags/finished/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <loc>/isaac-blog/tags/%23obsidian/</loc>
+    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/isaac-blog/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/isaac-blog/tags/isaacblog/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <loc>/isaac-blog/posts/my-obsidian-setup/</loc>
+    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/isaac-blog/posts/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/isaac-blog/tags/random/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/isaac-blog/tags/</loc>
+    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/isaac-blog/tags/random/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/isaac-blog/posts/titled/</loc>
