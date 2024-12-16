@@ -3,7 +3,7 @@ title: My Obsidian Setup
 date: 2024-12-14
 draft: false
 tags:
-  - "#Obsidian"
+  - Obsidian
 ---
 # Introduction
 ---

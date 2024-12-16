@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obsidian on Isaac Blog</title>
+    <link>/isaac-blog/tags/obsidian/</link>
+    <description>Recent content in Obsidian on Isaac Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/isaac-blog/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Obsidian Setup</title>
+      <link>/isaac-blog/posts/my-obsidian-setup/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/isaac-blog/posts/my-obsidian-setup/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Hello random people on the internet that I do not know!
+&lt;img src=&#34;/isaac-blog/isaac-blog/images/Pasted-image-20241215140327.png&#34; alt=&#34;Image Description&#34;&gt;
+Today I will be talking about my current obsidian setup. Just to show you what it all looks like, here&amp;rsquo;s a screenshot:
+&lt;img src=&#34;/isaac-blog/isaac-blog/images/Pasted-image-20241215141856.png&#34; alt=&#34;Image Description&#34;&gt;
+Yeeeeep, so I&amp;rsquo;m gonna be showing you how I made that.&lt;/p&gt;
+&lt;h1 id=&#34;plugins--themes&#34;&gt;Plugins &amp;amp; Themes&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Here is a list of plugins and the theme I used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zsviczian/obsidian-excalidraw-plugin&#34;&gt;ExcaliDraw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SilentVoid13/Templater&#34;&gt;Templater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/FlorianWoelki/obsidian-iconize&#34;&gt;Iconize&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/liamcain/obsidian-calendar-plugin&#34;&gt;Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mgmeyers/obsidian-style-settings&#34;&gt;Style Settings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CyanVoxel/vauxhall-obsidian&#34;&gt;Vauxhall&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;You only need Style Settings for changing the look of the theme&lt;/em&gt;&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Hello random people on the internet that I do not know!
+&lt;img src=&#34;/isaac-blog/isaac-blog/images/Pasted-image-20241215140327.png&#34; alt=&#34;Image Description&#34;&gt;
+Today I will be talking about my current obsidian setup. Just to show you what it all looks like, here&amp;rsquo;s a screenshot:
+&lt;img src=&#34;/isaac-blog/isaac-blog/images/Pasted-image-20241215141856.png&#34; alt=&#34;Image Description&#34;&gt;
+Yeeeeep, so I&amp;rsquo;m gonna be showing you how I made that.&lt;/p&gt;
+&lt;h1 id=&#34;plugins--themes&#34;&gt;Plugins &amp;amp; Themes&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Here is a list of plugins and the theme I used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zsviczian/obsidian-excalidraw-plugin&#34;&gt;ExcaliDraw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SilentVoid13/Templater&#34;&gt;Templater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/FlorianWoelki/obsidian-iconize&#34;&gt;Iconize&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/liamcain/obsidian-calendar-plugin&#34;&gt;Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mgmeyers/obsidian-style-settings&#34;&gt;Style Settings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CyanVoxel/vauxhall-obsidian&#34;&gt;Vauxhall&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;You only need Style Settings for changing the look of the theme&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;configuration&#34;&gt;Configuration&lt;/h2&gt;
+&lt;h3 id=&#34;style-settings&#34;&gt;Style Settings&lt;/h3&gt;
+&lt;p&gt;In Style Settings I only changed the &lt;code&gt;Color Intensity&lt;/code&gt; to &lt;code&gt;Nebula&lt;/code&gt; for more of a contrast.&lt;/p&gt;
+&lt;h3 id=&#34;colored-sidebar&#34;&gt;Colored Sidebar&lt;/h3&gt;
+&lt;p&gt;To get the colorful folders, I used a CSS snippet &lt;a href=&#34;https://github.com/CyanVoxel/Obsidian-Colored-Sidebar&#34;&gt;Colored Sidebar&lt;/a&gt;. To apply it,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Download the CSS file&lt;/li&gt;
+&lt;li&gt;Go to &lt;code&gt;Options&lt;/code&gt; &amp;gt; &lt;code&gt;Appearance&lt;/code&gt; &amp;gt; &lt;code&gt;CSS snippets&lt;/code&gt; and open the file location&lt;/li&gt;
+&lt;li&gt;Copy the CSS file into that folder (should be &lt;code&gt;.obsidian/snippets&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Back in Obsidian click on &lt;code&gt;reload snippets&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now it should apply colors to your folders. You have to name your folders starting with &lt;code&gt;00&lt;/code&gt; to &lt;code&gt;07&lt;/code&gt;, and &lt;code&gt;99&lt;/code&gt; also works.
+&lt;img src=&#34;/isaac-blog/isaac-blog/images/Pasted-image-20241215143657.png&#34; alt=&#34;Image Description&#34;&gt;
+You can change all the colors and these rules in the CSS file you copied over.&lt;/p&gt;
+&lt;h3 id=&#34;iconize&#34;&gt;Iconize&lt;/h3&gt;
+&lt;p&gt;To add the nice little icons to folders, I used the Iconize plugin. After enabling it I didn&amp;rsquo;t change any configurations, but you can if you want. Now you can just right-click a folder and press &lt;code&gt;Change Icon&lt;/code&gt; and select one you want!&lt;/p&gt;
+&lt;h3 id=&#34;calendar&#34;&gt;Calendar&lt;/h3&gt;
+&lt;p&gt;This is just a nice little widget that displays a calendar. You can also click on a day to open a daily note for that day. After enabling, it shows up in the right sidebar, but I dragged it over to be under my folders.&lt;/p&gt;
+&lt;h3 id=&#34;excalidraw&#34;&gt;ExcaliDraw&lt;/h3&gt;
+&lt;p&gt;I use ExcaliDraw to create little drawings and quickly sketch out random stuff. That image at the beginning of the article was created with it. Because I have Obsidian in dark mode, it looks better to have it also in dark mode. Go to &lt;code&gt;Options&lt;/code&gt; &amp;gt; &lt;code&gt;ExcaliDraw&lt;/code&gt; &amp;gt; &lt;code&gt;Appearance and Behaviour&lt;/code&gt; &amp;gt; &lt;code&gt;Theme and Styling&lt;/code&gt;, and enable &lt;code&gt;New drawings to match Obsidian theme&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;templater&#34;&gt;Templater&lt;/h3&gt;
+&lt;p&gt;I keep a folder with templates for different types of notes I want to make. More on that later. Templater makes it easy to create a note from a template, and have it be created in a specific folder. After enabling, go to it&amp;rsquo;s options and specify the template folder. Now when you click on the icon on the left sidebar, you can select a template.&lt;/p&gt;
+&lt;p&gt;To make certain temples create notes in different folders, you have to turn on &lt;code&gt;Enable folder templates&lt;/code&gt;. You can add a folder, and the type of template. Here&amp;rsquo;s an example:
+&lt;img src=&#34;/isaac-blog/isaac-blog/images/Pasted-image-20241215144459.png&#34; alt=&#34;Image Description&#34;&gt;
+Now when I create an blog post it automatically goes into my blog folder.&lt;/p&gt;
+&lt;h2 id=&#34;templates&#34;&gt;Templates&lt;/h2&gt;
+&lt;h3 id=&#34;daily-notes&#34;&gt;Daily Notes&lt;/h3&gt;
+&lt;p&gt;I have it so that when I create a new daily note, it used my Daily Note template and puts it in my Daily folder. This is pretty easy to setup.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Navigate to &lt;code&gt;Options&lt;/code&gt; &amp;gt; &lt;code&gt;Daily notes&lt;/code&gt;. Here you can select what folder they go it, and what template they use.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;outro&#34;&gt;Outro&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;So that&amp;rsquo;s about everything. Cya.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
