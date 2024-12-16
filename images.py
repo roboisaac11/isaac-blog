@@ -29,7 +29,7 @@ for filename in os.listdir(posts_dir):
         
         # Step 2: Find all image links in the format ![Image Description](/images/Pasted%20image%20...%20.png)
         images = re.findall(r'\[\[([^]]*\.png)\]\]', content)
-        print(images)
+        #print(images)
         
         # Step 3: Replace image links and ensure URLs are correctly formatted
         for image in images:
@@ -40,7 +40,7 @@ for filename in os.listdir(posts_dir):
             # Step 4: Copy the image to the Hugo static/images directory if it exists
             image_source = os.path.join(attachments_dir, image)
             if os.path.exists(image_source):
-                print(f"Copying {image} to {static_images_dir}")
+                #print(f"Copying {image} to {static_images_dir}")
                 shutil.copy(image_source, static_images_dir)
 
                 # Rename the file in the destination to use dashes instead of spaces
@@ -51,7 +51,8 @@ for filename in os.listdir(posts_dir):
                     try:
                         os.rename(image_dest, new_image_dest)
                     except Exception:
-                        print("Skipped because file already exists")
+                        pass
+                        #print("Skipped because file already exists")
 
 
         # Step 5: Write the updated content back to the markdown file

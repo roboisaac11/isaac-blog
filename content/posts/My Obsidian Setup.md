@@ -3,7 +3,7 @@ title: My Obsidian Setup
 date: 2024-12-14
 draft: false
 tags:
-  - Obsidian
+  - obsidian
 ---
 # Introduction
 ---
@@ -63,6 +63,4 @@ I have it so that when I create a new daily note, it used my Daily Note template
 
 # Outro
 ---
-So that's about everything. Cya.
-
--roboisaac11
+lol u thought I would put time into an outro? well ur wrong.
